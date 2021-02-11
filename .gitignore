@@ -28,4 +28,4 @@ dist/
 /apache_skywalking.egg-info/
 **/venv/
 tests/**/requirements.txt
-skywalking/protocol
+#skywalking/protocol
