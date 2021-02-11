@@ -20,7 +20,7 @@
 *.iml
 .DS_Store
 *~
-**/*_pb2*
+# **/*_pb2*
 __pycache__
 build/
 dist/
